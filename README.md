@@ -1,2 +1,1 @@
-# CODSOFT
-all python internship codes
+basic python 
